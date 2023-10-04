@@ -8,10 +8,10 @@ The following highlights the steps a data scientist would follow to creat amodel
     Demographic info about customers – gender, age range, and if they have partners and dependents.
 
 
-#### **Step 1. Objectives**
+### **Step 1. Objectives**
 Definition of the problem and what it seeks to achieve, what leads to customers to cancel their subscription, where do they go and what optionsa re available for them.
 
-### ** Step 2. Data Collection**
+### **Step 2. Data Collection**
 Collection of all data that would be relevant to predict customer churn, make the dataset as comprehensive as possible.
 
 ### **Step 3. Data preprocessing**
