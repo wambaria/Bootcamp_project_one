@@ -26,9 +26,9 @@ Split the data into training and testing sets, the purpose is to allow the data 
 ### **Step 6. Train the data**
 Select the machine learning model and select and tune it to optimize the hyperparameters.
 
-### **Step 7. Evaluate the model
+### **Step 7. Evaluate the model**
 The model should be evaluated using appropriate metrics
 Make improvements.
 
-### **Step 8. Test and deploy the model
+### **Step 8. Test and deploy the model**
 Test to assess the accuracy of the model on new unseen data in a production environment. Deploy into production.
